@@ -32,9 +32,9 @@ color:
 # Footer settings
 footer:
   copyright: Gabriel Gray
-  location: San Antonio
-  social: Find Me At
-  credits: Credits
+  location: 
+  social: Contact
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,7 +55,7 @@ address:
   - line: 
 
 # Credits content
-credits: 'Created by myself using the Freelancer open sourse Bootstrap theme.'
+credits: 
 
 # Build settings
 markdown: kramdown
