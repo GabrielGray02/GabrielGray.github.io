@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date:
+date: 2025-06-4
 img: WENO.png
 alt: image-alt
 project-date: Juanary 2025
