@@ -5,6 +5,6 @@ date: 2025-06-4
 img: World.png
 alt: image-alt
 project-date: Juanary 2024 - May 2024
-category: R-Studio Practice
-description: This projected used R-Studio to determine how varius development indicators impacted life expectancy. <a href="https://docs.google.com/document/d/1VZiHeNsOhX1mGQOa51-cu8zcAr9x5Zjs4Zbv3oxLrGM/edit?tab=t.0" target="_blank">View the full paper</a>.</p>
+category: R-Studio and Python
+description: <p>Our team cleaned and prepared the dataset in R, selecting 17 indicators such as GDP per capita, sanitation, water access, literacy rate, and mortality rate. We conducted exploratory data analysis and developed visualizations to test hypotheses about how economic status and geographic location relate to life expectancy. <p>To further investigate these relationships, we implemented a linear regression model in Python using scikit-learn. The model predicted life expectancy based on access to basic sanitation services, showing a statistically significant positive correlation. We discussed the ethical implications of modeling large-scale global inequality and acknowledged the limits of applying universal conclusions to diverse populations. <p>This project sharpened our skills in data cleaning, hypothesis testing, regression modeling, and data visualization. It also emphasized the importance of context and nuance when interpreting global development data. <p><a href="https://drive.google.com/file/d/1rMO8puQad-TbaXdWrgOa-vN36lYwwWpl/view?usp=sharingk">View the full paper</a>.</p>
 ---

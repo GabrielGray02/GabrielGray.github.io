@@ -5,6 +5,6 @@ date: 2025-06-4
 img: WENO2.png
 alt: image-alt
 project-date: Juanary 2025 - May 2025
-category: Research
+category: Matlab, C++, and LaTex
 description: <p>This project focused on optimizing the performance of Weighted Essentially Non Oscillatory (WENO) schemes by approximating polynomial smoothness indicators. I developed a custom benchmarking system in C++, including a reusable timer package capable of tracking and comparing the execution time of multiple algorithmic implementations. This allowed us to systematically evaluate trade-offs in speed and accuracy across different methods. <p>To visualize the performance and accuracy of the data, I created a series of MATLAB graphs that compared runtime efficiency, error behavior, and convergence rates. These visualizations were used to draw conclusions about the most efficient approximation strategies. <p>The final research paper was written and formatted in LaTeX, where I contributed to by aligning the graphs within the paper and ensuring the clarity of the information. Unfortunately the paper is not yet available to be seen.
 ---
