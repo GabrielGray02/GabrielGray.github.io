@@ -4,7 +4,9 @@ modal-id: 2
 date: 2025-06-4
 img: Traffic.png
 alt: image-alt
-project-date: Juanary 2025
+project-date: Juanary 2025 - May 2025
 category: Excel & Arena Software Simulation Practice
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: This projected used Arena and Excel to determine solutions to traffic on I-35. Please use the link bellow to see the full project. 
 ---
+
+[View the full paper](https://docs.google.com/document/d/1HhQAv8m68QQRfnYnqr7-ZuLTVSQJ-4Aw/edit?usp=sharing&ouid=108963103083494463417&rtpof=true&sd=true)

@@ -4,7 +4,7 @@ modal-id: 1
 date: 2025-06-4
 img: WENO2.png
 alt: image-alt
-project-date: Juanary 2025
+project-date: Juanary 2025 - May 2025
 category: Research
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
