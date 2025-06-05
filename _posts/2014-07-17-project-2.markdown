@@ -5,7 +5,7 @@ date: 2025-06-4
 img: Traffic.png
 alt: image-alt
 project-date: Juanary 2025 - May 2025
-category: Excel & Arena Software Simulation
+category: Excel and Arena Software Simulation
 description: <p>This project involved modeling a congested section of I-35 in downtown Austin using Arena Simulation Software. The objective was to identify bottlenecks and propose adjustments to improve traffic flow during peak hours. <p>I collected real-world traffic data from public information, defined arrival and service time distributions, and built a simulation that accounted for congestion during peak hours. The model tested various scenarios such as fewer vehicles, additional lanes, and rerouting strategies. <p>Through simulation runs and statistical analysis, I identified interventions that significantly reduced average wait times and congestion duration. This project sharpened my skills in process modeling, data interpretation, and simulation-based decision-making. <p><a href="https://drive.google.com/file/d/1sv3cBsGYMTr2KfpOtXiG33elSsRrn-eA/view?usp=sharing" target="_blank">View the full paper</a>.</p>
 ---
 
