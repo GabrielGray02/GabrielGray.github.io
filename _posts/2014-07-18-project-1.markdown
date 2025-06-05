@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2025-06-4
-img: WENO.png
+img: WENO2.png
 alt: image-alt
 project-date: Juanary 2025
 category: Research
