@@ -6,5 +6,5 @@ img: World.png
 alt: image-alt
 project-date: Juanary 2024 - May 2024
 category: R-Studio Practice
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: This projected used R-Studio to determine how varius development indicators impacted life expectancy. <a href="https://docs.google.com/document/d/1VZiHeNsOhX1mGQOa51-cu8zcAr9x5Zjs4Zbv3oxLrGM/edit?tab=t.0" target="_blank">View the full paper</a>.</p>
 ---
