@@ -6,6 +6,6 @@ img: Traffic.png
 alt: image-alt
 project-date: Juanary 2025 - May 2025
 category: Excel & Arena Software Simulation Practice
-description: This projected used Arena and Excel to determine solutions to traffic on I-35. Please use the link bellow to see the full project. [View the full paper](https://docs.google.com/document/d/1HhQAv8m68QQRfnYnqr7-ZuLTVSQJ-4Aw/edit?usp=sharing&ouid=108963103083494463417&rtpof=true&sd=true)
+description: This projected used Arena and Excel to determine solutions to traffic on I-35. <a href="https://docs.google.com/document/d/1HhQAv8m68QQRfnYnqr7-ZuLTVSQJ-4Aw/edit?usp=sharing&ouid=108963103083494463417&rtpof=true&sd=true" target="_blank">View the full research paper (PDF)</a>.</p>'
 ---
 
