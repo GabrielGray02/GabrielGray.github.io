@@ -7,7 +7,12 @@
         <div class="intro-text">
           <span class="name">{{ site.title }}</span>
           <hr class="star-light" />
-          <span class="skills">{{ site.skills }}</span>
+          <span class="skills">
+            {{ site.skills }}
+            {% if site.resume_url %}
+              - <a href="{{ site.resume_url }}" target="_blank">RESUME LINK</a>
+            {% endif %}
+          </span>
         </div>
       </div>
     </div>
