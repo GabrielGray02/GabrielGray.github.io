@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2025-06-04
+img: WENO2.png
+alt: image-alt
+title: Static Site Generator
+project-date: 2023
+category: Jekyll
+description: <p>I created a simple static site generator to understand how tools like Jekyll work. It converts markdown files into HTML pages using basic templates.</p>
+---

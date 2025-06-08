@@ -19,6 +19,11 @@ bing_verify:
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
+# Collection for personal projects
+collections:
+  personal:
+    output: true
+
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
