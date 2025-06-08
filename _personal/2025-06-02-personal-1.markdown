@@ -6,5 +6,5 @@ img: garden.png
 alt: image-alt
 title: Raised Bed Gardening
 project-date: June 2025
-description: <p>This project analyzes movie reviews using a sentiment analysis model built with scikit-learn. It was a fun experiment in natural language processing and machine learning.</p>
+description: <p>Description</p>
 ---

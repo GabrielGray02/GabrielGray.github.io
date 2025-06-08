@@ -5,5 +5,5 @@ date: 2025-06-04
 img: read.png
 alt: image-alt
 title: Collection of Books Read
-description: <p>I created a simple static site generator to understand how tools like Jekyll work. It converts markdown files into HTML pages using basic templates.</p>
+description: <p>Description</p>
 ---

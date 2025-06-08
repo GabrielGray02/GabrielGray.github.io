@@ -6,5 +6,5 @@ img: carp.png
 alt: image-alt
 title: Making a Chalkboard
 project-date: May 2025
-description: <p>I created a simple static site generator to understand how tools like Jekyll work. It converts markdown files into HTML pages using basic templates.</p>
+description: <p>Description</p>
 ---
