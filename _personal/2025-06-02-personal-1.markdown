@@ -5,6 +5,6 @@ date: 2025-06-04
 img: garden.png
 alt: image-alt
 title: Raised Bed Gardening
-project-date: June 2025
+project-date: June 2025 - Present
 description: <p>Description</p>
 ---
