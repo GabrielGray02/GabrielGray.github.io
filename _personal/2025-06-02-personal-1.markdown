@@ -4,7 +4,7 @@ modal-id: 4
 date: 2025-06-04
 img: garden.png
 alt: image-alt
-title: Movie Review Sentiment Analyzer
+title: Gardening
 project-date: 2024
 category: Python & scikit-learn
 description: <p>This project analyzes movie reviews using a sentiment analysis model built with scikit-learn. It was a fun experiment in natural language processing and machine learning.</p>
