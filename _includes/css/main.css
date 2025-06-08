@@ -492,3 +492,15 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+/* Profile image flip effect */
+#profile-pic {
+    cursor: pointer;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-transition: -webkit-transform 0.8s;
+    transition: transform 0.8s;
+}
+#profile-pic.flip {
+    -webkit-transform: rotateY(360deg);
+    transform: rotateY(360deg);
+}
