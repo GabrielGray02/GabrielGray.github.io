@@ -4,7 +4,7 @@ modal-id: 4
 date: 2025-06-02
 img: garden.png
 alt: image-alt
-title: First Project
+title: Personal Finance Mission Control
 project-date: June 2025 - Present
 description: <p>Description</p>
 ---
