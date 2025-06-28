@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 4
-date: 2025-06-04
-img: garden.png
+date: 2025
+img: 
 alt: image-alt
-title: Raised Bed Gardening
+title: First Project
 project-date: June 2025 - Present
 description: <p>Description</p>
 ---
