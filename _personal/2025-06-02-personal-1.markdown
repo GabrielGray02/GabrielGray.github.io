@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2025
+date: 2025-06-02
 img: garden.png
 alt: image-alt
 title: First Project
